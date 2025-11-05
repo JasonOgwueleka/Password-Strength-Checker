@@ -26,17 +26,6 @@ It checks for spaces, enforces password rules, and stores valid login details in
 
 ---
 
-## Example Output:
-Please enter your username: jason
-Please enter your password: JasonOg1234
-Please enter your email: jasonog@gmail.com
-
-Account created successfully!
-Welcome to the club, jason! Your account details are:
---------------------------------------------------------
-Username: jason
-Email: jasonog@gmail.com
-
 ## How to Run:
 1. Clone this repository:
    git clone https://github.com/JasonOgwuleka/Password-Strength-Checker.git
